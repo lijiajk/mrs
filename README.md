@@ -1,2 +1,2 @@
 # mrs
-Medical Record System 
+病历系统模块
